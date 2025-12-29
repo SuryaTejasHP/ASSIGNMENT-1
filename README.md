@@ -65,9 +65,9 @@ Subtraction  5
 Multiplication  50
 Division  2.0
 
-Enter your first name: Alice
-Enter your last name: Johnson
-Hello, Alice Johnson! Welcome to Python Programming.
+Enter your first name: Surya
+Enter your last name: Tejas
+Hello, Surya Tejas! Welcome to Python Programming.
 ```
 
 ---
